@@ -1,5 +1,5 @@
 {
-    "name": "sc-usb-standalone-BLOCKS-061220",
+    "name": "sc-usb-standalone-JS-061220",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -17,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
